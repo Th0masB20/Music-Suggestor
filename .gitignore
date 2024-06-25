@@ -1,4 +1,5 @@
 .env
 .cache
+songs.json
 text.json
 __pycache__
