@@ -1,3 +1,4 @@
 spotipy
 requests
-winotify
+win11toast
+fontstyle
